@@ -1,0 +1,32 @@
+{
+  "name": "atomics-css-sass",
+  "version": "1.0.0",
+  "author": "JuanMa Garrido <JuanMa.Garrido@gmail.com> (http://apuntesjs.com/)",
+  "description": "Atomic CSS bootstrap w/ SASS",
+  "license": "ISC",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-compass": "^1.0.1",
+    "grunt-contrib-connect": "0.8.0",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-watch": "0.6.1"
+  },
+  "devDependencies": {
+    "grunt-available-tasks": "^0.5.6",
+    "grunt-gh-pages": "^0.10.0"
+  },
+  "scripts": {
+    "test": "echo 'this is a test script from npm package.json'"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "grunt",
+    "atomic"
+  ],
+  "bugs": {
+    "url": "https://github.com/pixelovers/atomics-css-sass/issues"
+  },
+  "homepage": "https://github.com/pixelovers/atomics-css-sass"
+}
